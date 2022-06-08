@@ -25,6 +25,7 @@ select{
     width: 300px;
     height: 30px;
     border-color: rgb(52, 185, 185) ;
+    color:black;
 }
 
 button{
@@ -36,6 +37,7 @@ button{
     width: 120px;
     align-items: center;
     font-size: 10px;
+    color:black;
 }
 
 body h1{
