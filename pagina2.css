@@ -1,0 +1,48 @@
+html{
+    font-family: 'Indie Flower', cursive;
+    background-image:url("fotos/cimento.jpg")
+}
+
+body{
+    align-items: center;
+    align-self: center;
+    margin-left:50px;
+}
+
+fieldset{
+    margin-top: 20px;
+    background-color: rgba(51, 51, 51, 0.753);
+    border-color: rgba(51, 51, 51, 0.753);
+    border-radius: 100px;
+    color: rgb(170, 245, 245);
+    margin-bottom: 120px;
+    height: 250px;
+}
+
+select{
+    background-color: rgb(52, 185, 185);
+    border-radius: 20px;
+    width: 300px;
+    height: 30px;
+    border-color: rgb(52, 185, 185) ;
+}
+
+button{
+    background-color:rgb(52, 185, 185)  ;
+    border-color: rgb(52, 185, 185) ;
+    border-radius: 100px;
+    margin-left: 200px;
+    height: 50px;
+    width: 120px;
+    align-items: center;
+    font-size: 10px;
+}
+
+body h1{
+    font-family: 'Cedarville Cursive', cursive;
+    color: rgba(6, 107, 121, 0.884);
+    font-size: 60px;
+    margin-left: 100px;
+    font-weight: 900;
+    margin-top: 10px;
+}
