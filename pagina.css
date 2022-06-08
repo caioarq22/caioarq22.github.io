@@ -1,6 +1,6 @@
 html{
     font-family: 'Indie Flower', cursive;
-    background-image:url("fotos/pb.jpeg")
+    background-image:url("pb.jpeg")
 }
 
 body{
@@ -29,7 +29,7 @@ body fieldset{
 #tit{
     width:200px;
     height: 220px;
-    margin-left:500px;
+    margin-left:100px;
     align-items: center;
 }
 
